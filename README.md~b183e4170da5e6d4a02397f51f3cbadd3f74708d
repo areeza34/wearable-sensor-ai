@@ -1,2 +1,31 @@
-# wearable-sensor-ai
-AI-based wearable sensor monitoring system
+# SafeStep AI - Wearable Sensor Monitoring System
+
+##  Overview
+SafeStep AI is an AI-based wearable sensor system that predicts fall risk using motion data.
+
+## Features
+- Real-time sensor data simulation
+- Machine Learning model (Random Forest)
+- Fall risk prediction
+- Interactive UI using Streamlit
+
+##  Tech Stack
+- Python
+- Streamlit
+- Scikit-learn
+- NumPy & Pandas
+
+## How to Run
+1. Clone the repository
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Run the app:
+   streamlit run app.py
+
+## Future Scope
+- Integrate real wearable sensors
+- Deploy on mobile devices
+- Improve prediction accuracy
+
+## Author
+Areeza Suhail
